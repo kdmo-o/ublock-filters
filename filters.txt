@@ -3285,7 +3285,6 @@ en.dict.naver.com##.openpro_list
 
 ! Oct 21, 2026 https://section.blog.naver.com
 section.blog.naver.com##.navigator_category
-section.blog.naver.com##.list_post_article
 section.blog.naver.com##.wrap_thumbnail_post_list > div > .pagination
 section.blog.naver.com##.nothing_updatedpost > .title
 
@@ -3417,7 +3416,6 @@ discord.com##.content_GNEh_C
 video2.nimi.wiki##.text-white.leading-normal.text-sm.text-center.py-3.px-4.whitespace-pre-line
 
 ! 2026. 11. 10. https://section.blog.naver.com
-section.blog.naver.com##.wrap_my_information
 
 ! 2026. 11. 10. https://news.sbs.co.kr
 news.sbs.co.kr###endpage_shorts_container
