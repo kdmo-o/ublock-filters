@@ -4887,4 +4887,5 @@ m.blog.naver.com##nav [class^="nudge_wrap__"]:has(a[href^="/Recommendation.naver
 m.blog.naver.com##.virtual-column > div:has(> [class^="feed_carousel__"])
 m.blog.naver.com##.virtual-column > div:has([data-click-area="fed.rppf"])
 m.blog.naver.com##.virtual-column > div:has([data-click-area="fed.hottopic"])
+m.blog.naver.com##.virtual-column > div:has(button[class^="add_btn__"])
 m.blog.naver.com##.virtual-column > div:has-text(/당신을 위한 추천글|블로그씨의 추천글|내 이웃이 반응한 글|HOT TOPIC/)
