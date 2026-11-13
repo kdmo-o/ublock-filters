@@ -1313,7 +1313,6 @@ www.chosun.com##.grid__col--sm-12.grid__col--md-12.grid__col--lg-6.\|.layout__ar
 
 ! 2026. 8. 9. https://www.aladin.co.kr
 www.aladin.co.kr##.Ere_ht18.Ere_fs15.info_list > a[href="javascript:void(0);"]
-www.aladin.co.kr##.info > div:nth-of-type(3)
 www.aladin.co.kr##div.info_list:nth-of-type(5) > ul > li:nth-of-type(1)
 www.aladin.co.kr##div.info_list:nth-of-type(5) > ul > li:nth-of-type(5)
 
